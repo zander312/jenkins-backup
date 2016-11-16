@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<com.microsoftopentechnologies.windowsazurestorage.WAStoragePublisher_-WAStorageDescriptor plugin="windows-azure-storage@0.3.1">
+  <storageAccounts>
+    <com.microsoftopentechnologies.windowsazurestorage.beans.StorageAccountInfo>
+      <storageAccName></storageAccName>
+      <storageAccountKey></storageAccountKey>
+      <blobEndPointURL>http://blob.core.windows.net/</blobEndPointURL>
+    </com.microsoftopentechnologies.windowsazurestorage.beans.StorageAccountInfo>
+  </storageAccounts>
+</com.microsoftopentechnologies.windowsazurestorage.WAStoragePublisher_-WAStorageDescriptor>

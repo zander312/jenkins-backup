@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<github-plugin-configuration plugin="github@1.22.4">
+  <configs/>
+  <hookUrl>http://ec2-54-82-168-90.compute-1.amazonaws.com/jenkins/github-webhook/</hookUrl>
+  <hookSecretConfig>
+    <credentialsId></credentialsId>
+  </hookSecretConfig>
+</github-plugin-configuration>
